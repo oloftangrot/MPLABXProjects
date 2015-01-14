@@ -1,0 +1,9 @@
+_init_tick_timer: CODE, 665 0 11
+__stringtab: STRING, 256 0 6
+__stringdata: STRING, 272 0 220
+_dpowers: STRING, 262 0 10
+_main: CODE, 492 0 117
+__initialization: CODE, 21 0 6
+_isr: CODE, 609 0 32
+_delay_ms: CODE, 641 0 24
+Total: 426

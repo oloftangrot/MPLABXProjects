@@ -1,0 +1,4 @@
+_main: CODE, 1977 0 65
+__initialization: CODE, 2042 0 2
+_isr: CODE, 1940 0 37
+Total: 104

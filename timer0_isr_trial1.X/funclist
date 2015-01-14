@@ -1,0 +1,5 @@
+_main: CODE, 25 0 48
+__initialization: CODE, 21 0 0
+_isr: CODE, 73 0 37
+_TMR0Init: CODE, 110 0 15
+Total: 100
